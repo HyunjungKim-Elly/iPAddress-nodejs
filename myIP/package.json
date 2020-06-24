@@ -1,0 +1,33 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyunjungKim-Elly/web_practice.git"
+  },
+  "keywords": [
+    "npm",
+    "publish"
+  ],
+  "author": "Elly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyunjungKim-Elly/WEB/issues"
+  },
+  "homepage": "https://github.com/HyunjungKim-Elly/WEB#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "date-utils": "^1.2.21",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.18",
+    "request": "^2.88.2",
+    "request-ip": "^2.1.3"
+  }
+}
