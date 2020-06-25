@@ -1,4 +1,4 @@
-# technobelly_test
+# web_test
 
 tech_test:<br>
 A recursive function that received digits from a user and lists the digits in descending order
